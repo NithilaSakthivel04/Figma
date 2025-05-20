@@ -36,10 +36,10 @@ Figma
 
 ## CODE:
 home page
-<div style="width: 390px; height: 844px; position: relative; overflow: hidden; background-image
+<div style="width: 390px; height: 844px; position: relative; overflow: hidden; 
   <div style="width: 284px; height: 270px; left: 36px; top: 0px; position: absolute"></div>
   <div style="width: 390px; height: 51px; left: 0px; top: 0px; position: absolute; background: #5C007E"></div>
-  <img style="width: 255px; height: 51px; left: 71px; top: 0px; position: absolute" src="https://placehold.co/255x51" />
+  <img style="width: 255px; height: 51px; left: 71px; top: 0px; position: absolute" />
   <img style="width: 501px; height: 250px; left: -55px; top: 255px; position: absolute" src="https://placehold.co/501x250" />
   <div style="width: 169px; height: 71px; left: 111px; top: 584px; position: absolute; background: #592589; border-radius: 9999px"></div>
   <div style="left: 144px; top: 598px; position: absolute; color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">LOGIN</div>
