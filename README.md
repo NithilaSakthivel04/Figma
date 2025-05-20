@@ -36,7 +36,7 @@ Figma
 
 ## CODE:
 home page
-<div style="width: 390px; height: 844px; position: relative; overflow: hidden; background-image: url(https://placehold.co/390x844)">
+<div style="width: 390px; height: 844px; position: relative; overflow: hidden; background-image
   <div style="width: 284px; height: 270px; left: 36px; top: 0px; position: absolute"></div>
   <div style="width: 390px; height: 51px; left: 0px; top: 0px; position: absolute; background: #5C007E"></div>
   <img style="width: 255px; height: 51px; left: 71px; top: 0px; position: absolute" src="https://placehold.co/255x51" />
