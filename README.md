@@ -35,7 +35,6 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-```
 home page
 <div style="width: 390px; height: 844px; position: relative; overflow: hidden; background-image: url(https://placehold.co/390x844)">
   <div style="width: 284px; height: 270px; left: 36px; top: 0px; position: absolute"></div>
