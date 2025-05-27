@@ -35,51 +35,178 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-<div style="width: 390px; height: 844px; position: relative; overflow: hidden; background-image: url(https://placehold.co/390x844)">
-  <div style="width: 284px; height: 270px; left: 36px; top: 0px; position: absolute"></div>
-  <div style="width: 390px; height: 51px; left: 0px; top: 0px; position: absolute; background: #5C007E"></div>
-  <img style="width: 255px; height: 51px; left: 71px; top: 0px; position: absolute" src="https://placehold.co/255x51" />
-  <img style="width: 501px; height: 250px; left: -55px; top: 255px; position: absolute" src="https://placehold.co/501x250" />
-  <div style="width: 169px; height: 71px; left: 111px; top: 584px; position: absolute; background: #592589; border-radius: 9999px"></div>
-  <div style="left: 144px; top: 598px; position: absolute; color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">LOGIN</div>
-  <div style="width: 225px; height: 66px; left: 87px; top: 669px; position: absolute; background: #69227D; border-radius: 9999px"></div>
-  <div style="left: 118px; top: 680px; position: absolute; color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">REGISTER</div>
-</div>
-<div style="width: 390px; height: 844px; position: relative; overflow: hidden; background-image: url(https://placehold.co/390x844)">
-  <div style="width: 194px; height: 70px; left: 97px; top: 45px; position: absolute; background: #D9D9D9"></div>
-  <div style="left: 133px; top: 58px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">EVENTS</div>
-  <div style="left: 42px; top: 181px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">1.DREAM DOODLES</div>
-  <div style="width: 254px; height: 64px; left: 69px; top: 263px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">2.SKETCHBOX</div>
-  <div style="left: 57px; top: 345px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">3.CRAFT CANVAS</div>
-  <div style="left: 69px; top: 422px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">4.COLOR LAB</div>
-  <div style="left: 60px; top: 499px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">5.INKED ECHOES</div>
-  <div style="left: 8px; top: 581px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">6.PAINT PERSPECTIVES</div>
-</div>
-<div style="width: 390px; height: 844px; position: relative; overflow: hidden; background-image: url(https://placehold.co/390x844)">
-  <div style="left: 18px; top: 24px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">EVENT REGISTRATION</div>
-  <div style="left: 147px; top: 68px; position: absolute; color: black; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">FORM</div>
-  <div style="width: 308px; height: 49px; left: 26px; top: 161px; position: absolute; background: #D9D9D9"></div>
-  <div style="left: 43px; top: 174px; position: absolute; opacity: 0.95; color: black; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">FULL NAME</div>
-  <div style="width: 308px; height: 47px; left: 26px; top: 242px; position: absolute; background: #D9D9D9"></div>
-  <div style="left: 43px; top: 254px; position: absolute; color: black; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">AGE</div>
-  <div style="width: 308px; height: 50px; left: 26px; top: 331px; position: absolute; background: #D9D9D9"></div>
-  <div style="left: 43px; top: 344px; position: absolute; color: black; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">GENDER</div>
-  <div style="width: 308px; height: 47px; left: 26px; top: 411px; position: absolute; background: #D9D9D9"></div>
-  <div style="left: 43px; top: 423px; position: absolute; color: black; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">REGISTER NUMBER</div>
-  <div style="width: 308px; height: 43px; left: 26px; top: 486px; position: absolute; background: #D9D9D9"></div>
-  <div style="left: 43px; top: 496px; position: absolute; color: black; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">MOBILE NUMBER</div>
-  <div style="width: 100px; height: 100px; left: 400px; top: 844.50px; position: absolute"></div>
-  <div style="width: 309.74px; height: 43px; left: 26.40px; top: 556px; position: absolute; transform: rotate(1deg); transform-origin: top left; background: #D9D9D9"></div>
-  <div style="left: 43px; top: 567px; position: absolute; color: black; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">DEPARTMENT</div>
-  <div style="width: 213px; height: 67px; left: 73px; top: 664px; position: absolute; background: #131212; box-shadow: 4px 4px 4px; border-radius: 9999px; border: 1px black solid; filter: blur(2px)"></div>
-  <div style="left: 104px; top: 676px; position: absolute; color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">REGISTER</div>
-</div>
-<div style="width: 390px; height: 844px; position: relative">
-  <div style="width: 390px; height: 69px; left: 0px; top: 0px; position: absolute; background: #5C007E"></div>
-  <img style="width: 298px; height: 59px; left: 46px; top: 5px; position: absolute" src="https://placehold.co/298x59" />
-  <div style="left: 77px; top: 558px; position: absolute; color: white; font-size: 20px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">we are all eagerly waiting<br/>        for your art work!</div>
-  <img style="width: 390px; height: 293px; left: 0px; top: 221px; position: absolute" src="https://placehold.co/390x293" />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Art Contest Registration</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    .screen {
+      padding: 30px;
+      min-height: 100vh;
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .active {
+      display: flex;
+    }
+
+    .home {
+      background: url('https://i.imgur.com/VRNYfg6.jpg') no-repeat center center;
+      background-size: cover;
+      color: white;
+    }
+
+    .logo {
+      width: 100px;
+      margin-bottom: 20px;
+    }
+
+    .tagline {
+      font-style: italic;
+      margin-bottom: 20px;
+    }
+
+    .events {
+      background: linear-gradient(to bottom, #d0eaff, #ffc0cb);
+    }
+
+    .events h2 {
+      margin-bottom: 20px;
+    }
+
+    .events ol {
+      text-align: left;
+      font-size: 18px;
+    }
+
+    .form {
+      background: url('https://i.imgur.com/WqfZ6Dr.jpg') no-repeat center center;
+      background-size: cover;
+    }
+
+    .form h2 {
+      margin-bottom: 20px;
+      color: #000;
+    }
+
+    form input, form button {
+      display: block;
+      margin: 10px auto;
+      padding: 10px;
+      width: 80%;
+      max-width: 300px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: none;
+    }
+
+    form button {
+      background-color: black;
+      color: white;
+      cursor: pointer;
+    }
+
+    .thankyou {
+      background: linear-gradient(to bottom, #5a189a, #b5179e);
+      color: white;
+      flex-direction: column;
+    }
+
+    .thankyou h2 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    .thankyou p {
+      font-size: 18px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 20px;
+      border: none;
+      border-radius: 5px;
+      background: #5a189a;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Screen 1: Home -->
+  <section class="screen home active" id="home">
+    <img src="https://i.imgur.com/C5xkYNR.png" alt="College Logo" class="logo" />
+    <h1>Art Contest</h1>
+    <p class="tagline">Shine your light & showcase your artwork!</p>
+    <button onclick="showScreen('events')">Register</button>
+  </section>
+
+  <!-- Screen 2: Events -->
+  <section class="screen events" id="events">
+    <h2>EVENTS</h2>
+    <ol>
+      <li>Dream Doodles</li>
+      <li>Sketchbox</li>
+      <li>Craft Canvas</li>
+      <li>Color Lab</li>
+      <li>Inked Echoes</li>
+      <li>Paint Perspectives</li>
+    </ol>
+    <button onclick="showScreen('form')">Next</button>
+  </section>
+
+  <!-- Screen 3: Form -->
+  <section class="screen form" id="form">
+    <h2>Event Registration Form</h2>
+    <form onsubmit="submitForm(event)">
+      <input type="text" placeholder="Full Name" required />
+      <input type="number" placeholder="Age" required />
+      <input type="text" placeholder="Gender" required />
+      <input type="text" placeholder="Register Number" required />
+      <input type="tel" placeholder="Mobile Number" required />
+      <input type="text" placeholder="Department" required />
+      <button type="submit">Register</button>
+    </form>
+  </section>
+
+  <!-- Screen 4: Thank You -->
+  <section class="screen thankyou" id="thankyou">
+    <h2>Thank you for registering!</h2>
+    <p>We are all eagerly waiting for your artwork!</p>
+  </section>
+
+  <script>
+    function showScreen(screenId) {
+      document.querySelectorAll(".screen").forEach(screen => {
+        screen.classList.remove("active");
+      });
+      document.getElementById(screenId).classList.add("active");
+    }
+
+    function submitForm(event) {
+      event.preventDefault();
+      showScreen("thankyou");
+    }
+  </script>
+</body>
+</html>
+
 
 ## OUTPUT:
 
